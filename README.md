@@ -7,4 +7,4 @@ kappale..
 ## new 
 new kappale..
 
-localedit
+fixed merge conflict Locally
